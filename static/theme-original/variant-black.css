@@ -1,12 +1,12 @@
 
 :root{
-    --SIDE-MAIN-color:#91A437;
-    --SIDE-MAIN-TXT-color:black;
-    --MAIN-HOVER-color:#465400;
-    --SIDE-FOCUS-BACK-color:#667B00;
-    --SIDE-FOCUS-FORE-color:black;
-    --MENU-LINK-color:black;
-    --MENU-ACTIVE-BACK-color:#465400;
+    --SIDE-MAIN-color:black;
+    --SIDE-MAIN-TXT-color:white;
+    --MAIN-HOVER-color:#505050;
+    --SIDE-FOCUS-BACK-color:black;
+    --SIDE-FOCUS-FORE-color:white;
+    --MENU-LINK-color:white;
+    --MENU-ACTIVE-BACK-color:#505050;
     --MENU-ACTIVE-LINK-color:white;
     
 }
