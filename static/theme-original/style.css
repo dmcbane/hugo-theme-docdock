@@ -1200,6 +1200,7 @@ pre .copy-to-clipboard:hover {
       font-weight: normal; }
     #sidebar ul li .category-icon {
       color: gray; }
+    /* Disabled highlighting links in the sidebar because it didn't look clean.
     #sidebar ul.topics > li.parent a, #sidebar ul.topics > li.active a {
       color: #fff;
       -webkit-transition: color 0.15s ease;
@@ -1229,6 +1230,7 @@ pre .copy-to-clipboard:hover {
       -moz-transition: color 0.15s ease;
       -ms-transition: color 0.15s ease;
       transition: color 0.15s ease; }
+      */
     #sidebar ul li {
       padding: 0; }
     #sidebar ul li.visited + div {
