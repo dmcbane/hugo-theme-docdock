@@ -558,7 +558,7 @@ textarea:focus, input[type="email"]:focus, input[type="number"]:focus, input[typ
   font-size: 1.2rem; }
 
 #footer {
-  padding: 2rem 1rem 0;
+  padding: 0rem 1rem 0;
   color: #b3b3b3;
   font-size: 13px; }
 
