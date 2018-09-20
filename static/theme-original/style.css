@@ -1192,9 +1192,11 @@ pre .copy-to-clipboard:hover {
     #sidebar ul.topics li.parent > ul, #sidebar ul.topics li.alwaysopen > ul,
     #sidebar ul li.active > ul {
       display: block; }
+    /* Don't use empty rulesets
     #sidebar ul.topics > li > span > a {
-            /*line-height: 2rem;
-		    font-size: 1.1rem*/ }
+      line-height: 2rem;
+      font-size: 1.1rem }
+    */
     #sidebar ul.topics > li > span > a b {
       opacity: 0.5;
       font-weight: normal; }
