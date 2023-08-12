@@ -11,6 +11,22 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir= false
 enableMissingTranslationPlaceholders = false
 
+# [Languages]
+# [Languages.en]
+# title = "Documentation for Hugo docDock"
+# weight = 1
+# languageName = "English"
+# 
+# [Languages.fr]
+# title = "Documentation du thème docDock"
+# weight = 2
+# languageName = "Français"
+
+
+[markup]
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
 editURL = ""
 showVisitedLinks = false # default is false
